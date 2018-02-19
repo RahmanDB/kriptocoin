@@ -1,0 +1,2 @@
+# kriptocoin
+Mining to max
